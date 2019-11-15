@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1573825949 source:c:\users\jor\desktop\cgi-parte-01\main.cpp
+	<iostream >
+	<string>
+	<vector>
+	<sstream>
+	<utility>
+
